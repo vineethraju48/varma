@@ -36,25 +36,27 @@
 # Step by step helloworld kubernetes deployment
 
 
+![image](https://user-images.githubusercontent.com/101940552/168967687-01366857-d9c0-423b-9661-a05cded1b566.png)
 
-![image](https://user-images.githubusercontent.com/101940552/168946959-8916add6-2eff-464a-b102-46085c0446ea.png)
+![image](https://user-images.githubusercontent.com/101940552/168967903-897c1ac5-44d8-4a5b-bbc8-b9457965448c.png)
 
-![image](https://user-images.githubusercontent.com/101940552/168946723-e2e2a643-f877-4bc0-92bf-257e872a1d36.png)
+![image](https://user-images.githubusercontent.com/101940552/168968192-4b751288-7fe9-4fb9-b4db-d84b58d8a163.png)
 
-![image](https://user-images.githubusercontent.com/101940552/168947374-ef957fbe-6cca-44bb-9686-0b2a519c172c.png)
+![image](https://user-images.githubusercontent.com/101940552/168968504-007a774a-474d-4d10-bc8f-1ecc92930570.png)
 
-![image](https://user-images.githubusercontent.com/101940552/168947544-5f8d2e5b-17a9-4fcc-bc65-fb787aecdf90.png)
+![image](https://user-images.githubusercontent.com/101940552/168970039-ccfa7ddf-423b-493d-90b3-2bffee279001.png)
 
-![image](https://user-images.githubusercontent.com/101940552/168947777-b00c1b58-31d1-416b-98f9-6ce8167acece.png)
+![image](https://user-images.githubusercontent.com/101940552/168970122-05f5b1c7-b3a1-4b12-9819-75513faa4069.png)
 
-![image](https://user-images.githubusercontent.com/101940552/168948132-edc0f470-e39a-4370-849a-880235191cdf.png)
+![image](https://user-images.githubusercontent.com/101940552/168970561-b302dfbd-1be7-4a8a-bbd1-d8391d4d77d9.png)
 
-![image](https://user-images.githubusercontent.com/101940552/168948229-a5e1ba36-0d79-4ce3-89f7-c4d169de645f.png)
+![image](https://user-images.githubusercontent.com/101940552/168970683-fc054fbf-7363-4efd-9500-b4b608f4422f.png)
 
-![image](https://user-images.githubusercontent.com/101940552/168949064-fe8816c6-75b3-4835-8f54-b73307736a5c.png)
+![image](https://user-images.githubusercontent.com/101940552/168970802-51aa1eb4-4536-4b5f-b2a9-b60d9b5fa0ef.png)
 
-![image](https://user-images.githubusercontent.com/101940552/168948475-eaf9b13b-9277-4b03-a5af-61aac41ccee4.png)
+![image](https://user-images.githubusercontent.com/101940552/168970914-ad0eaa09-7ee7-4018-a43e-649819f248f0.png)
 
-![image](https://user-images.githubusercontent.com/101940552/168948643-8b6a7335-9631-4d30-9fb9-279ad1183aac.png)
+
+
 
 
